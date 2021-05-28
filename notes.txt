@@ -1,0 +1,59 @@
+fetch("https://discord.com/api/v9/guilds/504471685898960917/messages/search?author_id=549410144367149078", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "authorization": "NTQ5NDEwMTQ0MzY3MTQ5MDc4.YLAgOg.P43YBZuqsp3IeUbIij7D3MaStU4",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"91\", \"Chromium\";v=\"91\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-super-properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkxLjAuNDQ3Mi43NyBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiOTEuMC40NDcyLjc3Iiwib3NfdmVyc2lvbiI6IjEwIiwicmVmZXJyZXIiOiJodHRwczovL2Rpc2NvcmQuY29tLyIsInJlZmVycmluZ19kb21haW4iOiJkaXNjb3JkLmNvbSIsInJlZmVycmVyX2N1cnJlbnQiOiIiLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjo4NjE2MiwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+    "cookie": "__dcfduid=a748b77c8fe584a4055be539590f9d6f; rebrand_bucket=1d546837a2d20f0ffaadd14aed068e60; OptanonConsent=isIABGlobal=false&datestamp=Thu+May+27+2021+17%3A37%3A02+GMT-0500+(Central+Daylight+Time)&version=6.17.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&AwaitingReconsent=false; locale=en-US"
+  },
+  "referrer": "https://discord.com/channels/504471685898960917/539565670996770846",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+});
+
+fetch("https://discord.com/api/v9/guilds/504471685898960917/messages/search?author_id=549410144367149078&offset=25", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "authorization": "NTQ5NDEwMTQ0MzY3MTQ5MDc4.YLAgOg.P43YBZuqsp3IeUbIij7D3MaStU4",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"91\", \"Chromium\";v=\"91\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-super-properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkxLjAuNDQ3Mi43NyBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiOTEuMC40NDcyLjc3Iiwib3NfdmVyc2lvbiI6IjEwIiwicmVmZXJyZXIiOiJodHRwczovL2Rpc2NvcmQuY29tLyIsInJlZmVycmluZ19kb21haW4iOiJkaXNjb3JkLmNvbSIsInJlZmVycmVyX2N1cnJlbnQiOiIiLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjo4NjE2MiwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+    "cookie": "__dcfduid=a748b77c8fe584a4055be539590f9d6f; rebrand_bucket=1d546837a2d20f0ffaadd14aed068e60; OptanonConsent=isIABGlobal=false&datestamp=Thu+May+27+2021+17%3A37%3A02+GMT-0500+(Central+Daylight+Time)&version=6.17.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&AwaitingReconsent=false; locale=en-US"
+  },
+  "referrer": "https://discord.com/channels/504471685898960917/539565670996770846",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors"
+});
+
+fetch("https://discord.com/api/v9/channels/539565670996770846/messages/805293248008290344", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US",
+    "authorization": "NTQ5NDEwMTQ0MzY3MTQ5MDc4.YLAgOg.P43YBZuqsp3IeUbIij7D3MaStU4",
+    "sec-ch-ua": "\" Not;A Brand\";v=\"99\", \"Google Chrome\";v=\"91\", \"Chromium\";v=\"91\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "same-origin",
+    "x-super-properties": "eyJvcyI6IldpbmRvd3MiLCJicm93c2VyIjoiQ2hyb21lIiwiZGV2aWNlIjoiIiwiYnJvd3Nlcl91c2VyX2FnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkxLjAuNDQ3Mi43NyBTYWZhcmkvNTM3LjM2IiwiYnJvd3Nlcl92ZXJzaW9uIjoiOTEuMC40NDcyLjc3Iiwib3NfdmVyc2lvbiI6IjEwIiwicmVmZXJyZXIiOiJodHRwczovL2Rpc2NvcmQuY29tLyIsInJlZmVycmluZ19kb21haW4iOiJkaXNjb3JkLmNvbSIsInJlZmVycmVyX2N1cnJlbnQiOiIiLCJyZWZlcnJpbmdfZG9tYWluX2N1cnJlbnQiOiIiLCJyZWxlYXNlX2NoYW5uZWwiOiJzdGFibGUiLCJjbGllbnRfYnVpbGRfbnVtYmVyIjo4NjE2MiwiY2xpZW50X2V2ZW50X3NvdXJjZSI6bnVsbH0=",
+    "cookie": "__dcfduid=a748b77c8fe584a4055be539590f9d6f; rebrand_bucket=1d546837a2d20f0ffaadd14aed068e60; OptanonConsent=isIABGlobal=false&datestamp=Thu+May+27+2021+17%3A37%3A02+GMT-0500+(Central+Daylight+Time)&version=6.17.0&hosts=&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1&AwaitingReconsent=false; locale=en-US"
+  },
+  "referrer": "https://discord.com/channels/504471685898960917/539565670996770846/805293248008290344",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "DELETE",
+  "mode": "cors"
+});
